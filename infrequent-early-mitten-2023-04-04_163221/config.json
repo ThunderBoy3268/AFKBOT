@@ -1,0 +1,11 @@
+{
+ "ip": "SchoolGang69.aternos.me",
+ "port": "48193",
+ "password": "",
+ "prefix": "AKF_BOT",
+ "login-enabled": "false",
+ "register-cmd": "/login kartikopp kartikopp",
+ "login-cmd": "/login kartikopp",
+ "loginmsg": "Your any msg",
+ "web": "false" 
+}
